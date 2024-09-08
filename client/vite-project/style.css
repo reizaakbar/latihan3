@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+
+::selection {
+  background: rgba(167, 139, 250, 1) !important;
+  color: #fff !important;
+}
+::-moz-selection {
+  background: rgba(167, 139, 250, 1) !important;
+  color: #fff !important;
+}
+
+body {
+  font-family: "Noto Sans", sans-serif;
+  display: block;
+  margin: 0;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  letter-spacing: 2px;
+  background-color: #150b28;
+}
+
+.card {
+  background-color: rgba(76, 29, 149, 1);
+  color: #a3a3a3;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+}

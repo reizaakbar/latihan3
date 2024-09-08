@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "heroId": 1,
+    "role": "-",
+    "power": 0
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "heroId": 2,
+    "role": "-",
+    "power": 0
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "heroId": 2,
+    "role": "-",
+    "power": 0
+  }
+]
